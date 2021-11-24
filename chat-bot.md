@@ -8,7 +8,7 @@ chat bots
 * PAID - provided by whatsapp trusted third party.
 * 1 lac INR + facebook business account....3 months wasted...still no progress
 ## 2. Third party provider
-* [wait.io](wait.io)
+* [wati.io](wati.io)
 * https://github.com/Rhymen/go-whatsapp ==> possibly 5000/year
 * [twilio.com ](twilio.com)
 * https://www.haptik.ai/solutions/whatsapp-enterprise ==> maybe free && limited services
